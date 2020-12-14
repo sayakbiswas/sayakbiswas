@@ -1,2 +1,2 @@
-[![Sayak's github stats](https://github-readme-stats.vercel.app/api?username=sayakbiswas)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://raw.githubusercontent.com/sayakbiswas/github-stats/master/generated/overview.svg) 
+![](https://raw.githubusercontent.com/sayakbiswas/github-stats/master/generated/languages.svg)
